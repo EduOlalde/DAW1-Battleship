@@ -17,7 +17,7 @@ public class Barco {
 	private int contadorTocado;
 	
 	
-	//Constructor
+	//Constructors
 	
 	/**
 	 * Constructor vacío de Barco, tamaño por defecto de 3 casillas
